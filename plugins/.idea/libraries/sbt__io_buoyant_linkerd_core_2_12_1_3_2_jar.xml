@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.buoyant:linkerd-core_2.12:1.3.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.buoyant/linkerd-core_2.12/jars/linkerd-core_2.12-1.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.buoyant/linkerd-core_2.12/srcs/linkerd-core_2.12-1.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

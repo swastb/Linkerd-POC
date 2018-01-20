@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="headerClassifier" external.linked.project.path="$MODULE_DIR$/../../header-classifier" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../header-classifier/target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../header-classifier/target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../header-classifier">
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/src/main/scala-2.12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/src/test/scala-2.12" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/target/scala-2.12/src_managed/main" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/target/scala-2.12/src_managed/test" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/target/scala-2.12/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../header-classifier/target/scala-2.12/resource_managed/test" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../header-classifier/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.fasterxml.jackson.core:jackson-annotations:2.8.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpcore:4.4.7:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpclient:4.5.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-logging:commons-logging:1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-codec:commons-codec:1.10:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.fasterxml.jackson.core:jackson-core:2.8.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.fasterxml.jackson.core:jackson-databind:2.8.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.8.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.fasterxml.jackson.module:jackson-module-paranamer:2.8.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.fasterxml.jackson.module:jackson-module-scala_2.12:2.8.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.github.ben-manes.caffeine:caffeine:2.3.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.google.code.findbugs:jsr305:2.0.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.google.errorprone:error_prone_annotations:2.0.18:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.google.guava:guava:23.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.google.j2objc:j2objc-annotations:1.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.google.protobuf:protobuf-java:3.3.1:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.thoughtworks.paranamer:paranamer:2.8:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-base-http_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-core_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-http2_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-http_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-init_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-netty3-http_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-netty3_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-netty4-http_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-netty4_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-stats_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-thrift_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-toggle_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-tunable_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:finagle-zipkin-core_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:libthrift:0.5.0-7:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:scrooge-core_2.12:4.20.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:twitter-server_2.12:1.32.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-app_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-cache_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-codec_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-collection_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-core_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-function_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-hashing_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-jvm_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-lint_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-logging_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-registry_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-security_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-stats_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: com.twitter:util-tunable_2.12:7.1.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: commons-lang:commons-lang:2.6:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:admin_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:config_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:finagle-buoyant_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:finagle-h2_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:grpc-runtime_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:istio-proto_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:istio_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:k8s_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:linkerd-core_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:linkerd-failure-accrual_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:linkerd-protocol-http_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:linkerd-tls_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:namer-core_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:namer-fs_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:router-base-http_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:router-core_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:router-http_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:telemetry-admin-metrics-export_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.buoyant:telemetry-core_2.12:1.3.2:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty:3.10.1.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-buffer:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-codec:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-codec-http:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-codec-http2:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-codec-socks:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-common:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-handler:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-handler-proxy:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-resolver:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-tcnative-boringssl-static:2.0.5.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-transport:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-transport-native-epoll:4.1.14.Final:linux-x86_64:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: io.netty:netty-transport-native-unix-common:4.1.14.Final:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: javax.servlet:servlet-api:2.5:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: org.codehaus.mojo:animal-sniffer-annotations:1.14:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: org.scala-lang:scala-reflect:2.12.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: org.scala-lang.modules:scala-parser-combinators_2.12:1.0.4:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: org.scoverage:scalac-scoverage-runtime_2.12:1.3.0:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: org.slf4j:slf4j-api:1.7.7:jar" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sbt: org.yaml:snakeyaml:1.15:jar" level="project" />
+    <orderEntry type="module-library">
+      <library name="sbt: unmanaged-sources-and-docs">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.ivy2/cache/io.netty/netty-transport-native-epoll/srcs/netty-transport-native-epoll-4.1.14.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

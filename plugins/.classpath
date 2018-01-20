@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="header-classifier/src/main/java"/>
+	<classpathentry kind="src" path="header-classifier/src/main/scala"/>
+	<classpathentry kind="lib" path=".sbt-launch.jar"/>
+	<classpathentry kind="lib" path="header-classifier/target/scala-2.12/header-classifier-assembly-0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="header-classifier/target/scala-2.12/classes"/>
+</classpath>
